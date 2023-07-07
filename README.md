@@ -1,11 +1,15 @@
-# 2736 Aldrich Ave. S
-property notes &amp; instructions
+# Table of Contents
 
-[Maintenance](/maintenance.md)
+[Emergency/Urgent Issues](/emergency.md)
 
-[Camera system](/cameras.md)
+[Maintenance Requests & Contact](/maintenance.md)
+
+[Security & Camera system](/cameras.md)
 
 [Utilities](/utilities.md)
+
+[Yard upkeep & Snow Removal](/yard.md)
+
 
 
 
